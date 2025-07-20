@@ -1,2 +1,2 @@
 # Hello-everyone-
-Currently I'm learning..
+print("currently im learning")
