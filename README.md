@@ -1,2 +1,1 @@
-# Hello-everyone-
-print("currently im learning")
+hello everyone 
